@@ -7,7 +7,7 @@ setup(
     description="He who flays the hide",
     author="MushMush Foundation",
     author_email="glastopf@public.honeynet.org",
-    url="https://github.com/mushorg/tanner",
+    url="https://github.com/thomaskoeppe/tanner",
     packages=find_packages(exclude=["*.pyc"]),
     scripts=["bin/tanner", "bin/tannerweb", "bin/tannerapi"],
     data_files=[
